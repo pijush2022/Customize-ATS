@@ -14,6 +14,6 @@
 
 
 
-•	Overview: Developed an application optimizing resumes for ATS using Open AI APIs, enhancing match rates for job applications.
-•	Technologies: Open AI APIs, Python, AWS, Google Gemini Pro.
-•	Outcome: Achieved a 50% improvement in ATS match rates, increasing users' chances of securing interviews.
+**1.	Overview: Developed an application optimizing resumes for ATS using Open AI APIs, enhancing match rates for job applications.
+2.	Technologies: Open AI APIs, Python, AWS, Google Gemini Pro.
+3.	Outcome: Achieved a 50% improvement in ATS match rates, increasing users' chances of securing interviews.**
